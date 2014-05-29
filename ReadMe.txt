@@ -2,6 +2,7 @@
        MICROSOFT FOUNDATION CLASS LIBRARY : zhaoca
 ========================================================================
 
+高中做的大家来找茬外挂，备份一发。
 
 AppWizard has created this zhaoca application for you.  This application
 not only demonstrates the basics of using the Microsoft Foundation classes
